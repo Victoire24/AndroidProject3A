@@ -8,7 +8,7 @@ https://github.com/Victoire24/AndroidProject3A
 
 ## Présentation
 Le but de ce projet été de créer une application démontrant l'application d'un Recycler View et d'un appel à une API.
-Aisni, j'ai choisie de créer une application qui permettrait d'afficher toute une liste de cocktails.
+Ainsi, j'ai choisie de créer une application qui permettrait d'afficher toute une liste de cocktails.
 
 ## API
 J'ai trouvé mon API sur internet. Elle regroupe différentes possibilités de margaritas.
